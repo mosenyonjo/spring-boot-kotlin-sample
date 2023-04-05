@@ -1,46 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Spring-boot-kotlin-demo</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
-    }
-    h1 {
-      font-size: 36px;
-      margin-bottom: 20px;
-    }
-    h2 {
-      font-size: 24px;
-      margin-bottom: 10px;
-    }
-    p {
-      font-size: 16px;
-      margin-bottom: 10px;
-    }
-    pre {
-      font-size: 14px;
-      background-color: #eee;
-      padding: 10px;
-      border-radius: 5px;
-    }
-    code {
-      font-family: Consolas, monospace;
-      font-size: 14px;
-    }
-    a {
-      color: #337ab7;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-  <h1>Customer Demo</h1>
+### Spring-boot-Kotlin-Demo
+
+<h1>Customer Demo</h1>
 
 <h2>About</h2>
   <p>This is the source code for my project.</p>
